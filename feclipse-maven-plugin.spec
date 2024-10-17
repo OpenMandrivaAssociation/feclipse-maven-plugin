@@ -8,7 +8,7 @@ Summary:        Eclipse repo2runnable Maven Mojo
 
 
 License:        ASL 2.0
-URL:            http://maven.apache.org
+URL:            https://maven.apache.org
 Source0:        https://git.fedorahosted.org/cgit/feclipse-maven-plugin.git/snapshot/feclipse-maven-plugin-%{tag}.tar.gz
 BuildArch:      noarch
 
